@@ -1,0 +1,5 @@
+com\gestion\prodcutos\ProductosRestApplication.class
+com\gestion\prodcutos\servicio\ProductoServicio.class
+com\gestion\prodcutos\controlador\ProductoControlador.class
+com\gestion\prodcutos\modelo\Producto.class
+com\gestion\prodcutos\repositorio\ProductoRepositorio.class
